@@ -112,11 +112,6 @@ Below is the error graph when we change the learning rates 0.1, 0.2, 0.5, 0.8, 1
 
 We can observe that with small learning rate the loss is going to drop very slowly and takes lot of time to converge, so we should always be choosing optimal learning rate neither too low nor too high (if its too high it never converges).
 
-### Collaborators
 
-- Divya Kamat (divya.r.kamat@gmail.com)
-- Divya G K (gkdivya@gmail.com)
-- Garvit Garg (garvit.gargs@gmail.com)
-- Sarang (jaya.sarangan@gmail.com)
 
 
